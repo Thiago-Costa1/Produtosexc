@@ -1,0 +1,13 @@
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.exe
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.deps.json
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.runtimeconfig.json
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.runtimeconfig.dev.json
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.dll
+C:\Users\washi\Desktop\Exericio 3\bin\Debug\netcoreapp3.1\Exericio 3.pdb
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.csprojAssemblyReference.cache
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.AssemblyInfoInputs.cache
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.AssemblyInfo.cs
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.csproj.CoreCompileInputs.cache
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.dll
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.pdb
+C:\Users\washi\Desktop\Exericio 3\obj\Debug\netcoreapp3.1\Exericio 3.genruntimeconfig.cache
